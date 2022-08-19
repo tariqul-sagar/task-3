@@ -5,6 +5,9 @@ p{
 	font-size: 20px;
 }
 /*  External CSS  */
+.hlink{
+	text-align: center;
+}
 .internal-link{
 	border: 2px solid cyan;
 	font-size: 22px;
@@ -27,6 +30,9 @@ h1{
 }
 #para{
 	font-size: 20px;
+}
+.img-box{
+	text-align: center;
 }
 table{
 	margin-top: 20px;
@@ -55,4 +61,7 @@ h3{
 }
 li{
 	font-size: 20px;
+}
+.caption{
+	text-align: center;
 }
