@@ -1,0 +1,30 @@
+/*  External CSS  */
+.internal-link{
+	border: 2px solid cyan;
+	font-size: 22px;
+	padding: 8px;
+	background-color: rgba(0, 0, 0, .5);
+	color: #00FFFF;
+}
+#para{
+	font-size: 20px;
+}
+table{
+	margin-top: 20px;
+	border: 2px solid #000000;
+	font-size: 20px;
+}
+th{
+	border: 2px solid #000000;
+}
+.t-data{
+	border: 2px solid #000000;
+}
+h3{
+	color: #ffffff;
+	background-color: #000000;
+	font-size: 20px;
+}
+li{
+	font-size: 20px;
+}
