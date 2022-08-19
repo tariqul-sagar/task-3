@@ -1,3 +1,9 @@
+body{
+	background-color: #e4e5ef;
+}
+p{
+	font-size: 20px;
+}
 /*  External CSS  */
 .internal-link{
 	border: 2px solid cyan;
@@ -5,6 +11,19 @@
 	padding: 8px;
 	background-color: rgba(0, 0, 0, .5);
 	color: #00FFFF;
+	text-decoration: none;
+}
+h1{
+	color: #0086af;
+}
+.para{
+	border: 3px dotted green;
+	font-size: 20px;
+	padding: 10px;
+}
+.quotation{
+	font-size: 22px;
+	font-weight: 700;
 }
 #para{
 	font-size: 20px;
@@ -13,17 +32,26 @@ table{
 	margin-top: 20px;
 	border: 2px solid #000000;
 	font-size: 20px;
+	text-align: center;
 }
 th{
+	border: 2px solid #000000;
+	background-color: #57C479;
+	color: #ffffff;
+	padding: 3px;
+}
+tr{
 	border: 2px solid #000000;
 }
 .t-data{
 	border: 2px solid #000000;
+	padding: 3px;
 }
 h3{
 	color: #ffffff;
 	background-color: #000000;
 	font-size: 20px;
+	padding: 8px;
 }
 li{
 	font-size: 20px;
